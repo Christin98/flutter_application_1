@@ -1,3 +1,4 @@
+[![Codemagic build status](https://api.codemagic.io/apps/654bc4ffd6ac536a239d1ff4/654bc4ffd6ac536a239d1ff3/status_badge.svg)](https://codemagic.io/apps/654bc4ffd6ac536a239d1ff4/654bc4ffd6ac536a239d1ff3/latest_build)
 # flutter_application_1
 
 A new Flutter project.
